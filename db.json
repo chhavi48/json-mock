@@ -1,15 +1,21 @@
 {
-  "lib":[
+  "data":[
     {
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
-    }
+       "name":"shubham verma",
+       "email":"sv@gmail.com",
+       "phone":"6767676767",
+       "gender":"Male",
+       "hobbies":"dancing ,singing ,cooking",
+       "dob":"11/3/2001"
+    },
+    {
+      "name":"chhavi verma",
+      "email":"si@gmail.com",
+      "phone":"5656565656",
+      "gender":"Female",
+      "hobbies":"singing ,cooking",
+      "dob":"7/04/2001"
+   }
   ],
     "albums": [
       {
