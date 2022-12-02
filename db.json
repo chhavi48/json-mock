@@ -6,7 +6,19 @@
        "email":"sv@gmail.com",
        "phone":"6767676767",
        "gender":"Male",
-       "hobbies":"dancing ,singing ,cooking",
+       "hobbies":[
+        {
+           "dance": "dancing"
+        },
+        {
+        "sing":  "signing"
+      },
+      {
+        "read":"reading"
+    }
+
+
+       ],
        "dob":"11/3/2001"
     },
     {
@@ -16,7 +28,19 @@
       "email":"si@gmail.com",
       "phone":"5656565656",
       "gender":"Female",
-      "hobbies":"singing ,cooking",
+      "hobbies":[
+        {
+           "dance": "dancing"
+        },
+        {
+        "sing":  "signing"
+      },
+      {
+        "coock":"cooking"
+    }
+
+
+       ],
       "dob":"7/04/2001"
    }
   ],
